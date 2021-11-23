@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Dịch vụ nr onl sv2",
+    introTitle: 'Chào mừng bạn đến với dịch vụ',
+    introDesc: `Nhận làm nv từ kk mdd zb cho đến ppkk 
+(giá cả hợp lý, uy tín, chất lượng)
+Buff đậu, nhập đồ sll..v..v..
+Ngoài ra còn nhận up đệ theo yêu cầu bao đậu`,
+    btnIntro: 'Tôi cần thuê dịch vụ',
+    title: 'Bạn hãy liên hệ với chúng tôi để tham khảo giá cả',
+    desc: 'Ấn vào ib để ib cho thương lượng giá cả ',
+    btnYes: 'ib',
+    btnNo: 'Không ib',
+    question: 'Hot line: 0366 298 940 (rep 24/24)',
+    btnReply: 'uk',
+    reply: 'ĐỒNG Ý',
+    mess: 'Giờ bạn sẽ đc đưa tới fb chính chủ để thương lượng giá cả nha',
+    messDesc: 'Cảm ơn b đã ghé thăm và sử dụng dịch vụ của chúng tôi',
+    btnAccept: 'Okiiiii lun ',
+    messLink: 'https://www.facebook.com/messages/t/100021609841603' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
